@@ -1,0 +1,33 @@
+/* .block-one {
+  color: #fff;
+  background-color: crimson;
+}
+
+.block-two {
+  color: #fff;
+  background-color: darkcyan;
+} */
+
+.one {
+  width: 20%;
+  background-color: darkcyan;
+  color: #fff;
+}
+
+.two {
+  width: 50%;
+  background-color: green;
+  color: #fff;
+}
+
+.three {
+  width: 70%;
+  background-color: aqua;
+  color: #fff;
+}
+
+.four {
+  width: 100%;
+  background-color: crimson;
+  color: #fff;
+}
